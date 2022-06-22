@@ -8,7 +8,7 @@
     rconsoleprint('@@BLUE@@')
     rconsoleprint("\nenjoy this cracked script.")
 	local Library  = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-	local Window = Library.CreateLib("ArrowSploit 🤮 [cracked lmfao]", "DarkTheme")
+	local Window = Library.CreateLib("ArrowSploit [cracked lmfao]", "DarkTheme")
 	local MainStuff  = Window:NewTab("MainStuff")
 	local MainStuffSection = MainStuff:NewSection("MainStuff")
 	MainStuffSection:NewButton("shield godmode","Stop open that" , function()
